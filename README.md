@@ -1,28 +1,59 @@
 <h1 align="center">Hi 👋, I'm Azad Gupta</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">🚀 Fullstack Developer | India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azadgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="azadgupta1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azadgupta1" alt="azadgupta1" /></a> </p>
-
-- 🔭 I’m currently working on **Nuvora**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **azad236820@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/azad-gupta-b03a6b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azad-gupta-b03a6b252" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/azadgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="azadgupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azadgupta23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azadgupta23" height="30" width="40" /></a>
+<p align="center">
+✨ Building scalable apps with the <b>PERN stack</b> <br/>
+🌱 Learning <b>Machine Learning</b> & AI integrations <br/>
+💡 Passionate about solving real-world problems with code <br/>
+🤝 Open to collaborations on impactful projects
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azadgupta1&show_icons=true&locale=en&layout=compact" alt="azadgupta1" /></p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=azadgupta1&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="azadgupta1" /> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azadgupta1&show_icons=true&locale=en" alt="azadgupta1" /></p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azadgupta1&theme=darkhub&no-frame=true&row=2&column=3" alt="azadgupta1" />
+  </a> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azadgupta1&" alt="azadgupta1" /></p>
+---
+
+### 🧑‍💻 About Me
+- 🔭 Currently working on **Nuvora**  
+- 🌱 Exploring **Machine Learning & AI**  
+- 📫 Reach me at **azad236820@gmail.com**  
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/azad-gupta-b03a6b252" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/azadgupta" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.leetcode.com/azadgupta23" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="center">⚒️ Languages & Tools</h3>
+<p align="center"> 
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,postgresql,tailwind,postman&theme=dark" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azadgupta1&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azadgupta1&theme=radical&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azadgupta1&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="languages" />
+</p>
