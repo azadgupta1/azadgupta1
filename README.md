@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azad Gupta</h1>
 <h3 align="center">A passionate Fullstack Developer from India 🇮🇳</h3>
-<p align="center">I love building scalable web apps with the PERN stack, exploring AI/ML, and working on real-world projects. Always eager to learn, collaborate, and create impactful solutions.</p>
+<p align="center">I love building scalable web apps with the PERN stack, exploring AI/ML, and working on real-world projects. Always eager to learn, collaborate, and create impactful solutions</p>
 
 
 <p align="center">
