@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azad Gupta</h1>
-<h3 align="center">Fullstack Developer | India 🇮🇳</h3>
+<h3 align="center">Fullstack Developer | India 🇮🇳 </h3>
 
 <p align="center">
 ✨ Building scalable apps with the <b>PERN stack</b> <br/>
