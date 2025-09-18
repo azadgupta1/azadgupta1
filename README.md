@@ -4,7 +4,7 @@
 <p align="center">
 ✨ Building scalable apps with the <b>PERN stack</b> <br/>
 🌱 Learning <b>Machine Learning</b> & AI integrations <br/>
-💡 Passionate about solving real-world problems with code <br/>
+💡 Passionate about solving real-world problem with code <br/>
 🤝 Open to collaborations on impactful projects
 </p>
 
