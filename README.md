@@ -23,7 +23,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on **Nuvora**  
+- 🔭 Currently working on **IntelliCodeAI**  
 - 🌱 Exploring **Machine Learning & AI**  
 - 📫 Reach me at **azad236820@gmail.com**  
 
