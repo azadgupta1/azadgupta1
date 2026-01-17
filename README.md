@@ -5,7 +5,7 @@
 ✨ Building scalable apps with the <b>PERN stack</b> <br/>
 🌱 Learning <b>Machine Learning</b> & AI integrations <br/>
 💡 Passionate about solving real-world problem with code and AI <br/>
-🤝 Open to collaborations on impactful projects and professional work
+🤝 Open to collaborations on impactful projects and professional works
 ✉️ azad236820@gmail.com 
 </p>
 
