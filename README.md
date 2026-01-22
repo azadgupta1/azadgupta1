@@ -6,7 +6,7 @@
 🌱 Learning <b>Machine Learning</b> & AI integrations <br/>
 💡 Passionate about solving real-world problem with code and AI <br/>
 🤝 Open to collaborations on impactful projects and professional work
-✉️ azad236820@gmail.com or azadguptaa236820@gmail.com
+✉️ azad236820@gmail.com
 </p>
 
 ---
