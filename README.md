@@ -6,7 +6,7 @@
 🌱 Learning <b style="color:#38bdf8;">Machine Learning</b> & AI integrations <br/>
 💡 Passionate about solving real-world problem with code and AI <br/>
 🤝 Open to collaborations on impactful projects and professional work <br/>
-✉️ <span style="color:#facc15;">azad236820@gmail.com</span> or <span style="color:#facc15;">azadgupta236820@gmail.com</span>
+✉️ <span style="color:#facc15;">azad236820@gmail.com</span> or <span style="color:#facc15;">azadguptaa236820@gmail.com</span>
 </p>
 
 ---
