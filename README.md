@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#22d3ee;">Hi, I'm Azad Gupta</h1>
-<h3 align="center" style="color:#a78bfa;">Software Engineer | India IN 🇮🇳</h3>
+<h3 align="center" style="color:#a78bfa;">Software Engineer | India 🇮🇳</h3>
 
 <p align="center" style="color:#e5e7eb;">
 ✨ Building scalable apps with the <b style="color:#22c55e;">PERN stack</b> <br/>
