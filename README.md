@@ -7,7 +7,7 @@
 💡 Passionate about solving real-world problem with code and AI <br/>
 🤝 Open to collaborations on impactful projects and professional work <br/>
 Currently Working on StreamAI<br/>
-✉️ <span style="color:#facc15;">Contact me at : </span>
+✉️ <span style="color:#facc15;">Contact me at : azad236820@gmail.com</span>
   
 </p>
 
